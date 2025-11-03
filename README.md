@@ -12,7 +12,7 @@
 <!-- About Me -->
 <p align="center">
 I build sleek, modern, and animated websites. My focus is on high-quality design and smooth user experiences.<br>
-I love Italian coffee and next-gen web tech.
+I love AI and next-gen web tech.
 </p>
 
 ---
