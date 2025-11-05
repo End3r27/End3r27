@@ -36,6 +36,22 @@ I love AI and next-gen web tech.
       <b><a href="https://end3r27.github.io/portfolio-2/" target="_blank">Portfolio 2: Modern React/Next.js Page</a></b>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <a href="https://end3r27.github.io/portfolio-3/" target="_blank">
+        <img src="https://image.thum.io/get/width/400/crop/800/https://end3r27.github.io/portfolio-3/" width="300" alt="Portfolio 3"/>
+      </a>
+      <br/>
+      <b><a href="https://end3r27.github.io/portfolio-3/" target="_blank">Portfolio 3: Portfolio Landing Page</a></b>
+    </td>
+    <td align="center">
+      <a href="https://end3r27.github.io/portfolio-4/" target="_blank">
+        <img src="https://image.thum.io/get/width/400/crop/800/https://end3r27.github.io/portfolio-4/" width="300" alt="Portfolio 4"/>
+      </a>
+      <br/>
+      <b><a href="https://end3r27.github.io/portfolio-4/" target="_blank">Portfolio 4: LearnX - Courses Website</a></b>
+    </td>
+  </tr>
 </table>
 
 ---
