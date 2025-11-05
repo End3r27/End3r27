@@ -55,6 +55,15 @@ I love AI and next-gen web tech.
       <b><a href="https://end3r27.github.io/portfolio-4/" target="_blank">Portfolio 4: LearnX - Courses Website</a></b>
     </td>
   </tr>
+    <tr>
+          <td align="center">
+                  <a href="https://end3r27.github.io/portfolio-5/" target="_blank">
+                            <img src="https://image.thum.io/get/width/400/crop/800/https://end3r27.github.io/portfolio-5/" width="300" alt="Portfolio 5"/>
+                          </a>
+                  <br/>
+                  <b><a href="https://end3r27.github.io/portfolio-5/" target="_blank">Portfolio 5: Car Shop Landing Page</a></b>
+                </td>
+        </tr>
 </table>
 
 ---
