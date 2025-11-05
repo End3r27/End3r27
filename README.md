@@ -23,14 +23,14 @@ I love AI and next-gen web tech.
   <tr>
     <td align="center">
       <a href="https://end3r27.github.io/portfolio-1/" target="_blank">
-        <img src="https://user-images.githubusercontent.com/11184778/99195196-e1b11b80-279c-11eb-9154-6e3e6e6e6396.png" width="300" alt="Portfolio 1"/>
+        <img src="https://image.thum.io/get/width/400/crop/800/https://end3r27.github.io/portfolio-1/" width="300" alt="Portfolio 1"/>
       </a>
       <br/>
       <b><a href="https://end3r27.github.io/portfolio-1/" target="_blank">Portfolio 1: Gym Coaching Landing Page</a></b>
     </td>
     <td align="center">
       <a href="https://end3r27.github.io/portfolio-2/" target="_blank">
-        <img src="https://user-images.githubusercontent.com/11184778/99195198-e575a280-279c-11eb-84e9-075b9c2e119c.png" width="300" alt="Portfolio 2"/>
+        <img src="https://image.thum.io/get/width/400/crop/800/https://end3r27.github.io/portfolio-2/" width="300" alt="Portfolio 2"/>
       </a>
       <br/>
       <b><a href="https://end3r27.github.io/portfolio-2/" target="_blank">Portfolio 2: Modern React/Next.js Page</a></b>
@@ -63,13 +63,6 @@ I love AI and next-gen web tech.
 - Framer Motion / GSAP Animations
 - Responsive UI Design
 - Vercel, GitHub Pages Deployment
-
----
-
-## ✨ **Latest Projects**
-
-- **Gym Service Website:** Modern, animated, and responsive single-page for showcasing fitness coaching.
-- **React/Next.js Portfolio:** Sleek landing pages with cutting-edge UI effects and fast loading speeds.
 
 ---
 
